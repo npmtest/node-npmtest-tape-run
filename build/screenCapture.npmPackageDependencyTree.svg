@@ -1,7 +1,7 @@
 <svg height="3486" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3486" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">154 megabytes installed</tspan>
+<tspan x="10" y="26">156 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ tape-run@3.0.0 </tspan>
@@ -27,7 +27,7 @@
 <tspan x="10" y="394">  │ ├─┬ electron-stream@5.0.3 </tspan>
 <tspan x="10" y="410">  │ │ ├─┬ debug@2.6.3 </tspan>
 <tspan x="10" y="426">  │ │ │ └── ms@0.7.2 </tspan>
-<tspan x="10" y="442">  │ │ ├─┬ electron@1.6.2 </tspan>
+<tspan x="10" y="442">  │ │ ├─┬ electron@1.6.5 </tspan>
 <tspan x="10" y="458">  │ │ │ ├─┬ electron-download@3.3.0 </tspan>
 <tspan x="10" y="474">  │ │ │ │ ├─┬ fs-extra@0.30.0 </tspan>
 <tspan x="10" y="490">  │ │ │ │ │ ├── graceful-fs@4.1.11 </tspan>
@@ -99,7 +99,7 @@
 <tspan x="10" y="1546">  │ │ │ │ │ │ ├─┬ form-data@2.1.4 </tspan>
 <tspan x="10" y="1562">  │ │ │ │ │ │ │ └── asynckit@0.4.0 </tspan>
 <tspan x="10" y="1578">  │ │ │ │ │ │ ├─┬ har-validator@4.2.1 </tspan>
-<tspan x="10" y="1594">  │ │ │ │ │ │ │ ├─┬ ajv@4.11.6 </tspan>
+<tspan x="10" y="1594">  │ │ │ │ │ │ │ ├─┬ ajv@4.11.7 </tspan>
 <tspan x="10" y="1610">  │ │ │ │ │ │ │ │ ├── co@4.6.0 </tspan>
 <tspan x="10" y="1626">  │ │ │ │ │ │ │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
 <tspan x="10" y="1642">  │ │ │ │ │ │ │ │   └── jsonify@0.0.0 </tspan>
