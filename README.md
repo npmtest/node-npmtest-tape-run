@@ -1,4 +1,7 @@
-# test coverage for  [tape-run (v3.0.0)](https://github.com/juliangruber/tape-run)  [![npm package](https://img.shields.io/npm/v/npmtest-tape-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tape-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tape-run.svg)](https://travis-ci.org/npmtest/node-npmtest-tape-run)
+# npmtest-tape-run
+
+#### test coverage for  [tape-run (v3.0.0)](https://github.com/juliangruber/tape-run)  [![npm package](https://img.shields.io/npm/v/npmtest-tape-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tape-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tape-run.svg)](https://travis-ci.org/npmtest/node-npmtest-tape-run)
+
 #### Headless tape test runner
 
 [![NPM](https://nodei.co/npm/tape-run.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tape-run)
